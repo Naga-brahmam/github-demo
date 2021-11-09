@@ -16,4 +16,4 @@ yeruhnkljijjjjjjsi    kOAMSSSSSSSSSSSSSSSSSSSSSSSSS QUIW8UQWJWOKWLQKL,S IWKOWKWK
 83333333333333333333333330
 ************************************************tttt***********7&&&&&&&&&&&&&&&&&&&&
 ^^^^^^^^^^^^^^^^^^^^^^
-all rights reserved******
+all rights reserved******@@@@@@@@@@@@@@@@@@
