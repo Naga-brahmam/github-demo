@@ -2,6 +2,10 @@ Test git quick start demo
 naga how are you?
 is there any difficulty in the answer?
 please answer my question?
-copy rights
+copy rights.......
+<<<<<<< HEAD
+team=======================***************999945
+=======
 team=======================***************999999999999999
-55555555555555****
+55555555555555
+>>>>>>> 9f3ca1a (fb adding some trouble to simple)
